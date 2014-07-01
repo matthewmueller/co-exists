@@ -46,4 +46,4 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-![co-exist](http://park51.org/home/wp-content/uploads/2011/09/coexist-banner.jpg)
+![co-exist](https://i.cloudup.com/WlXCQScCB2.jpg)
